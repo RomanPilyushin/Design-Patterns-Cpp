@@ -98,6 +98,7 @@ void ClientCode(const Creator& creator) {
  * environment.
  */
 
+/*
 int main() {
     std::cout << "App: Launched with the ConcreteCreator1.\n";
     Creator* creator = new ConcreteCreator1();
@@ -111,3 +112,4 @@ int main() {
     delete creator2;
     return 0;
 }
+*/
